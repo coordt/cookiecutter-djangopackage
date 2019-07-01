@@ -1,0 +1,11 @@
+coverage>=4.5.1
+django-environ>=0.4.5
+flake8>=2.1.0
+m2r>=0.1.15
+pytest-cov>=2.5.1
+pytest-django>=3.3.3
+pytest-html>=1.19.0
+pytest>=3.6.3
+tox>=1.7.0
+
+# Additional test requirements go here
